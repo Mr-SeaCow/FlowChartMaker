@@ -15,6 +15,8 @@ class DeconstructFile():
     def parse(self):
         print(len(self.contentsList))
         isInComment = False
+        isInVariable = False
+        isInFunction = False
         for i in range(1, len(self.contentsList), 1):
             currentLine = self.contentsList[i]
             currentLine = self.removeComment(currentLine)
