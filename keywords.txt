@@ -1,0 +1,27 @@
+#include
+using namespace
+int main() {
+
+    return <- end of function
+}
+
+if (CONDITION)
+else
+
+switch (STATEMENT)
+    case CONDITION:
+            break??
+    default:
+
+assign variables ->
+int VARIABLENAME
+char
+float
+string
+double
+bool
+
+IGNORE COMMENTS //
+/* look for next */
+
+
